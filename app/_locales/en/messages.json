@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "fitbit chrome viewer",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "View your fitbit progress, battery info and get alerted when you hit your goal",
+    "description": "The description of the application"
+  }
+}
